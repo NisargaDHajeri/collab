@@ -1,3 +1,5 @@
 git
 global information tracker
+globally used
+used to collaborate
 
